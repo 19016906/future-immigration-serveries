@@ -12,18 +12,15 @@ header:
 footer:
   logo_img: ''
   tagline: SaaS theme by Stackbit
-  has_nav: true
+  has_nav: false
   nav_title: Company
-  has_social: true
+  has_social: false
   social_title: Community
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Stackbit. All rights reserved."
-  links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
-    new_window: true
+  links: []
 sass:
   indentWidth: 4
   style: nested
