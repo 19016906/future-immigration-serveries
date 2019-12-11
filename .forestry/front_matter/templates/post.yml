@@ -37,4 +37,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/2019-12-11-pic.md
+- _posts/pic.md
