@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- link-to-github.md
 - risk.md
 - vision.md
 - strategies.md
