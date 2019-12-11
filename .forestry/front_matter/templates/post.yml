@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/2019-03-10-Set-Big-Goals.md
-- _posts/2019-03-24-Design-Team-Collaborates.md
