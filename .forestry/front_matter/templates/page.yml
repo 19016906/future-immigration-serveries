@@ -24,10 +24,10 @@ fields:
   config:
     required: true
 pages:
-- link-to-github.md
 - risk.md
 - marketing.md
 - vision.md
 - finance.md
 - strategies.md
 - home.md
+- link-to-github.md
