@@ -1,11 +1,11 @@
 ---
-title: Stackbit Azimuth Theme
+title: Future Immigration services
 baseurl: "/"
 permalink: "/:title/"
 palette: blue
 header:
   title: Future immigrations services
-  logo_img: images/logo.png
+  logo_img: "/images/Future Immigration Logo (4).png"
   has_nav: true
   menu:
     actions:
