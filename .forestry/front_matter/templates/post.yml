@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - _posts/pic.md
+- _posts/introduction.md
