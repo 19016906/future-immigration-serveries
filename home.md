@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Introduction
 subtitle: ''
 img_path: "/images/istockphoto-608636992-1024x1024.jpg"
 menu:
