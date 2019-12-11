@@ -37,7 +37,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-01-11-Customer-Service-Skills-that-Every-Employee-Needs.md
 - _posts/2019-03-10-Set-Big-Goals.md
 - _posts/2019-04-23-Customer-Loyalty.md
 - _posts/2017-03-26-Azimuth-Improvements.md
