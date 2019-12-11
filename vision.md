@@ -3,7 +3,6 @@ layout: page
 title: Vision
 subtitle: "\"To be your first choice for all your immigration needs.”"
 img_path: ''
-published: false
 
 ---
 
