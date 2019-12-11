@@ -3,6 +3,10 @@ layout: page
 title: " Risk"
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 4
+    title: Risk
 
 ---
 **Changes in immigration laws**
