@@ -6,17 +6,17 @@ img_path: ''
 published: false
 
 ---
-Ø**Changes in immigration laws**
+**Changes in immigration laws**
 
- **Data hacking**
+**Data hacking**
 
- **Reliance on partners and third parties**
+**Reliance on partners and third parties**
 
- **Financial loss**
+**Financial loss**
 
- **High competition in market**
+**High competition in market**
 
- **Physical risks**
+**Physical risks**
 
 **1. Changes in immigration laws:** It is biggest risk in immigration industry because all work is depends on the immigration rules and regulations. I will affect the business badly. For examples, many countries provide a study permit for higher studies. If immigration laws are changed related to this program than it will automatically affect the business.
 
