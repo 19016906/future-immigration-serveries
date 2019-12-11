@@ -30,6 +30,5 @@ fields:
   config:
     required: true
 pages:
-- features.md
 - index.md
 - pricing.md
