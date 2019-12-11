@@ -8,9 +8,7 @@ header:
   logo_img: "/images/Future Immigration Logo (4).png"
   has_nav: true
   menu:
-    actions:
-    - label: Sign Up
-      url: "/signup"
+    actions: []
 footer:
   logo_img: images/logo_alt.png
   tagline: SaaS theme by Stackbit
