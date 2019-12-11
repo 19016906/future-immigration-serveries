@@ -5,7 +5,7 @@ subtitle: "\"To be your first choice for all your immigration needs.”"
 img_path: ''
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 
