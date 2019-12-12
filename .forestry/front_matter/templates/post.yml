@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/introduction.md
 - _posts/pic.md
