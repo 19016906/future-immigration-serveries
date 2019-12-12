@@ -25,9 +25,9 @@ fields:
     required: true
 pages:
 - risk.md
-- home-1.md
 - marketing.md
 - vision.md
 - finance.md
+- home-1.md
 - strategies.md
 - link-to-github.md

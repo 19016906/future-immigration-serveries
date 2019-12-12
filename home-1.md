@@ -6,7 +6,6 @@ img_path: ''
 menu:
   main:
     weight: 7
-published: false
 
 ---
 Future immigration is a company which will provide a immigration services to those people who are willing to travel foreign countries for various reasons
